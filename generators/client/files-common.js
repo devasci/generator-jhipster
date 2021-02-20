@@ -16,6 +16,9 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+
+/*hey there*/
+
 const constants = require('../generator-constants');
 
 const { CLIENT_MAIN_SRC_DIR } = constants;
